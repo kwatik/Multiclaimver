@@ -1,10 +1,2 @@
-👎remove due to website maintenance
-adsyou.biz 
-faucetmega.online 
-febacoin.site (interface change)
-
-👍fix bnb ltc and dgb claiming
-
-note: coins only appears when its available in the website
-
-
+script minnor improvement 
+unused code been remove
